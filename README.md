@@ -33,8 +33,9 @@ master
 
 |No|name|status|
 |:-----|:------|:-----|
-|1|anil|updated|
+|1|anil is very good to plan|updated|
 |2|pratti|update|
+|3|pratti|updated and successfull|
 
 
 
