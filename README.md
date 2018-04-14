@@ -6,7 +6,7 @@ CHEF
 
 This is first line
 
-'ls -a'
+`ls -a`
 ---
 
 **This is second line**
